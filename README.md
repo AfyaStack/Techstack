@@ -1,4 +1,6 @@
 https://a2ii.org/sites/default/files/reports/state_of_microinsurance_2016_microinsurance_network_web.pdf
+https://www.tebra.com/resource-library/
+https://www.kareo.com/why-kareo
 Core FHIR API:
 
 Google's FhirProto (as mentioned earlier)
